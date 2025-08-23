@@ -11,4 +11,4 @@ Ingrese su nombre y un emoji:
 - David Gutierrez 🛬
 - Esteban Berumen 🎮
 - Diego Canales 🥶
-- Remi Heredia ✨
+- Remi Heredia 🥐
