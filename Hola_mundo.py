@@ -17,6 +17,9 @@ print('Hola mundo Salo')
 
 print('Hola mundo est')
 
+#MAX
+print('Hola mundo max aaaa dejame editar')
+
 # Diego Canales 
 print('Hola mundo Diego')
 
