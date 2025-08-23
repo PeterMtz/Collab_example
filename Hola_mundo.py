@@ -17,6 +17,8 @@ print('Hola mundo Salo')
 
 print('Hola mundo est')
 
+# Diego Canales 
+print('Hola mundo Diego')
 
 import random
 import sys
