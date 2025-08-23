@@ -47,6 +47,7 @@ if __name__ == "__main__":
             print("👋 Fin del juego. Nada fue dañado.")
             break
 
+stop playing 
 
 
 
