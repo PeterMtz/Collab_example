@@ -8,3 +8,4 @@ Ingrese su nombre y un emoji:
 - Diego Canales 😊
 -  Juan Pablo Echeverria 😄
 -  Maximiliano Aguayo 😄
+- David Gutierrez 😎
