@@ -10,3 +10,4 @@ Ingrese su nombre y un emoji:
 - Priscila Cervantes 🎡
 - David Gutierrez 🛬
 - Esteban Berumen 🎮
+- Diego Canales 🥶
