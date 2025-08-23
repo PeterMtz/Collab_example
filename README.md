@@ -7,3 +7,4 @@ Ingrese su nombre y un emoji:
 - Priscila Cervantes 😄
 - Diego Canales 😊
 -  Juan Pablo Echeverria 😄
+-  Maximiliano Aguayo 😄
