@@ -6,3 +6,4 @@ Ingrese su nombre y un emoji:
 - Ivanna Camerota 😁
 - Priscila Cervantes 😄
 - Diego Canales 😊
+- - Juan Pablo Echeverria 😄
