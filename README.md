@@ -5,3 +5,4 @@ Ingrese su nombre y un emoji:
 - Profesor Pedro Martinez 🧑🏻‍🏫
 - Ivanna Camerota 😁
 - Priscila Cervantes 😄
+- Diego Canales 😊
