@@ -8,3 +8,4 @@ Ingrese su nombre y un emoji:
 - Maximiliano Aguayo Villanueva👨‍💻
 - Ivanna Camerota 🦦
 - Priscila Cervantes 🎡
+- David Gutierrez 🛬
